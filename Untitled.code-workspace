@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"name": "portfolio-website",
+		"path": "."
+	},
+	{
+		"name": "html5up-massively",
+		"path": "/Users/SkyeSajous/Downloads/html5up-massively"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "portfolio-website"
+  }
+}
